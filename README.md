@@ -8,7 +8,7 @@ Includes: `REST API` • `XMPP` • `Discord Bot`
 ### Quick Start
 ```bash
 npm i && npm run build && npm start
-
+If you’re going to use it, give me the credits!
 arena (Not working) I need to update
 Item Shop needs to be updated, it has bugs
 Matchmaker I need to update
